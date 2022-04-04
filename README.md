@@ -68,3 +68,6 @@ Some journals publish peer-reviewed software. Try searching for keywords in one 
 * April 4: Announce projects
 * April 6: Share among groups in class
 * April 8: Form groups to start group projects
+
+## ODE Library Repository:
+* https://github.com/bmcage/odes
